@@ -5,7 +5,7 @@ Research knowledge vault - AI, dev tools, and insights collected through explora
 ## 📚 Topics
 
 ### AI Agents
-- (coming soon)
+- [Pal: Personal Agent that Learns](topics/ai-agents/pal-personal-learning-agent.md) - 個人用AIエージェント「第二の脳」システム
 
 ### Dev Tools
 - (coming soon)
