@@ -3,9 +3,9 @@
 ## メタデータ
 - **調査日**: 2026-01-29
 - **ソース**:
-  - https://x.com/ashpreetbedi/status/2016702682925334818
-  - https://github.com/agno-agi/agno
-  - https://github.com/agno-agi/agentos-railway-template
+  - <a href="https://x.com/ashpreetbedi/status/2016702682925334818" target="_blank">X: @ashpreetbedi - Building Pal</a>
+  - <a href="https://github.com/agno-agi/agno" target="_blank">GitHub: agno-agi/agno</a>
+  - <a href="https://github.com/agno-agi/agentos-railway-template" target="_blank">GitHub: agno-agi/agentos-railway-template</a>
 - **タグ**: #ai-agent #personal-ai #second-brain #duckdb #groq #ollama
 
 ## 概要
