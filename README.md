@@ -1,4 +1,4 @@
-# 🧠 in_brain
+# 🧠 whiat is inmybrain
 
 Research knowledge vault - AI, dev tools, and insights collected through exploration with Claude Code.
 
