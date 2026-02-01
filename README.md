@@ -8,7 +8,7 @@ Research knowledge vault - AI, dev tools, and insights collected through explora
 - [Pal: Personal Agent that Learns](topics/ai-agents/pal-personal-learning-agent.md) - 個人用AIエージェント「第二の脳」システム
 
 ### Dev Tools
-- (coming soon)
+- [Claude Code ナレッジ管理自動化システム](topics/dev-tools/claude-code-knowledge-automation-system.md) - skillとhookを組み合わせたナレッジ記録システム
 
 ## 🔍 使い方
 
